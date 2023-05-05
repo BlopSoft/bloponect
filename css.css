@@ -1,0 +1,56 @@
+body {
+
+    margin: 0px;
+
+    }
+
+.head {
+
+   	background-color: rgba(79,18,87,1);
+
+   	padding: 16px;
+
+   	margin: 0px;
+
+   	color: white;
+
+}
+
+.header a {
+
+	color: white;
+
+	text-decoration: none;
+
+    margin-left: 12px;
+
+}
+
+.header {
+
+   	background: rgb(79,18,87);
+
+	background: linear-gradient(180deg, rgba(79,18,87,1) 60%, rgba(136,80,145,1) 100%);
+
+	color: white;
+
+	text-decoration: none;
+
+	padding: 16px;
+
+   	font-size: 24px;
+
+}
+
+.main {
+
+    margin: 16px;
+
+}
+
+.chat {
+
+    margin: 16px;
+
+    color: black;
+}
